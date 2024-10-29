@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/schroederl/OneDrive - CENIT AG/Dokumente/FOM/Konzepte_des_prozeduralen_Programmierens/11102024",
+      "program": "c:/Users/schroederl/OneDrive - CENIT AG/Dokumente/FOM/Konzepte_des_prozeduralen_Programmierens/11102024/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
